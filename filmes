@@ -5,9 +5,39 @@
 
 },
 {
-	"nome":"Trocando as Bolas 2 (1983)",
-	"posterURL": "https://m.media-amazon.com/images/M/MV5BYTEzMjBiMzktMjQyMS00YzBhLTgzNWQtNzA0NmEwMTNmMDQ2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
-	"trailerURL":"https://www.youtube.com/embed/OYi8xCDaN8Q"
+	"nome":"Star Wars, Episódio I: A Ameaça Fantasma (1999)",
+	"posterURL": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+	"trailerURL":"https://www.youtube.com/embed/JdtZWJyLiz0"
+
+},
+{
+	"nome":"Star Wars, Episódio II: Ataque dos Clones (2002)",
+	"posterURL": "https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+	"trailerURL":"https://www.youtube.com/embed/gYbW1F_c9eM"
+
+},
+{
+	"nome":"Star Wars, Episódio III: A Vingança dos Sith (2005)",
+	"posterURL": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_UY268_CR9,0,182,268_AL_.jpg",
+	"trailerURL":"https://www.youtube.com/embed/5UnjrG_N8hU"
+
+},
+{
+	"nome":"Star Wars, Episódio IV: Uma nova Esperança (1977)",
+	"posterURL": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+	"trailerURL":"https://www.youtube.com/embed/vZ734NWnAHA"
+
+},
+{
+	"nome":"Star Wars, Episódio V: O Império Contra-Ataca (1980)",
+	"posterURL": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+	"trailerURL":"https://www.youtube.com/embed/JNwNXF9Y6kY"
+
+},
+{
+	"nome":"Star Wars, Episódio VI: O Retorno do Jedi (1983)",
+	"posterURL": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+	"trailerURL":"https://www.youtube.com/embed/7L8p7_SLzvU"
 
 }
 ]
